@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 58e20144a7211eb4c99ef655dc16e568
+timeCreated: 1507423718
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PanicButton BB
+  fontNames:
+  - PanicButton BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c03a9ee93ae05f4caf2f84380746667, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
